@@ -1,0 +1,23 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "my first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParasPachore/first-server.git"
+  },
+  "author": "paras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParasPachore/first-server/issues"
+  },
+  "homepage": "https://github.com/ParasPachore/first-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
